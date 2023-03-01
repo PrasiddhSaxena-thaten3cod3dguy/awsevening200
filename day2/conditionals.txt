@@ -1,0 +1,40 @@
+Conditional ??? = Decision Making
+
+Whenever we want to exhibit Decision making in our program we work with conditional statements.
+
+1. if 
+2. if-else
+3. if-elif-else
+
+
+1. if :-  but if the condition ==> true then only it will be in the action.
+Syntax:-
+
+if (condition):
+    //Code Block
+
+//Continue Normal Code
+
+
+2. if-else :- If condition true execute if block otherwise execute else block.
+Syntax:-
+
+if (condition):
+    //Code Block
+else:
+    //else code block
+
+//Normal Code Block
+
+3. if-elif-else :- If condition is true if block is executed if condition is false but elif condition is true elif block is executed if block and elif block both are false then else block will be executed.
+
+Syntax:-
+
+if (condition):
+    //Code Block
+elif (Condition):
+    //elif-Code Block
+else:
+    //Code Block
+
+//Normal Code

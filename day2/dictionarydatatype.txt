@@ -1,0 +1,17 @@
+{
+    "Key":"Value"
+}
+
+Example:-
+
+{
+    "Name": "Vignesh",
+    "Age": 23,
+    "Siblings":{
+        "Name":"rohini",
+        "Age":17,
+        "Hobbies":["WatchingTV","Reading Books"]
+    },
+    "Hobbies":["Movies","Cricket"],
+    "Course":"AWS"
+}

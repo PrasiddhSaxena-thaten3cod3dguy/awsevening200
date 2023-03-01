@@ -1,0 +1,35 @@
+Looping --> Flow Control Statements / iterative statements 
+
+Looping we have 2 methods
+
+1. while Looping
+2. For loop 
+
+For Loop:-
+Syntax:-
+1. Iterating List / Strings 
+
+list1=[1,2,3,4]
+
+for <variablename> in list1:
+    //Code Block
+
+2. Normal For loop for iterating through Value
+
+
+---> while loop 
+
+initialization 
+
+condition 
+
+
+counter updater
+
+Syntax:
+
+<initialization>
+
+while (condition):
+    //code Block
+    // Updater 
