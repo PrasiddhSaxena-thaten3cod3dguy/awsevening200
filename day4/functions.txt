@@ -1,0 +1,9 @@
+2 Types of function
+
+--> Pre-Defined ==> That comes with the programming languages
+--> User-Defined ==> That the programmers create
+
+--> User Defined of 4 Types
+1. No arguments, no return data. 
+2. Arguments but no return data
+3. No Arguments but return data. 
