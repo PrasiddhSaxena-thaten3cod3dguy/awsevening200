@@ -27,4 +27,32 @@ Case3 :-
 I/P :- User is going to enter the basic salary.
 Rest Calculation to be done by program
     
-    '''
+'''
+
+basicsal=int(input("Enter The Basic Salary: "))
+ctc=0
+if basicsal >= 100000:
+    hra=basicsal * 0.25
+    entertainment= basicsal * 0.20
+    fuel=basicsal * 0.12
+    internet= basicsal * 0.35
+    lazy= basicsal * 0.55
+    ctc=basicsal + hra + fuel + internet + lazy + entertainment
+elif basicsal >= 60000:
+    hra=basicsal * 0.15
+    entertainment= basicsal * 0.15
+    fuel=basicsal * 0.10
+    internet= basicsal * 0.25
+    lazy= basicsal * 0.35
+    ctc=basicsal + hra + fuel + internet + lazy + entertainment
+elif basicsal >= 40000:
+    hra=basicsal * 0.25
+    entertainment= basicsal * 0.10
+    fuel=basicsal * 0.10
+    internet= basicsal * 0.25
+    lazy= basicsal * 0.35
+    ctc=basicsal + hra + fuel + internet + lazy + entertainment
+else:
+    print("Too Low to calculate CTC")
+
+print(ctc)

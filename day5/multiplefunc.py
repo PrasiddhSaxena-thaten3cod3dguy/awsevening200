@@ -55,4 +55,7 @@ elif choice == 3:
     sumofdigits(number)
 else:
     print("Dont Act Smart you fool !!")
-    
+
+'''
+Permutations and Combinations
+'''

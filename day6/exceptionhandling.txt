@@ -1,0 +1,6 @@
+try - except block
+
+try:
+    // Code Block where possibilities of error is there.
+except <TypeofError>:
+    //Do Something to mitigate exception
