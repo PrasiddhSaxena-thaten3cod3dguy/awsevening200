@@ -1,0 +1,15 @@
+#WAP to add 5 users and also add them in a group whose groupname is being inputted by user
+
+'''
+I/P
+
+GroupName: - hr 
+Then Enter UserName
+User1: Vignesh
+User2: Gayathri
+User3: Sai Teja
+
+O/P
+id 
+
+'''
